@@ -1,4 +1,5 @@
-#include "AmbComponent.h"
+#include <AmbComponent.h>
+#include <string.h>
 
 static const float fSqrt3_2 = sqrtf( 3.f ) / 2.f;
 static const float fSqrt_3_8 = sqrtf( 3.f / 8.f );

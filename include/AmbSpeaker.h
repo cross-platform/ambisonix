@@ -1,7 +1,7 @@
 #ifndef AMBSPEAKER_H
 #define AMBSPEAKER_H
 
-#include "AmbComponent.h"
+#include <AmbComponent.h>
 
 //=================================================================================================
 

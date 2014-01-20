@@ -2,7 +2,7 @@
 #define AMBCOMPONENT_H
 
 #include <math.h>
-#include "AmbFormat.h"
+#include <AmbFormat.h>
 
 //=================================================================================================
 
