@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 2.8)
 
-project(Ambisonix)
+project(ambisonix)
 
 file(GLOB srcs src/*.cpp)
 file(GLOB hdrs include/*.h)
@@ -22,5 +22,5 @@ install(
 
 install(
     FILES ${hdrs}
-    DESTINATION include
+    DESTINATION include/ambisonix
 )
