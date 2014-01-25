@@ -1,7 +1,7 @@
 #ifndef AMBSOURCE_H
 #define AMBSOURCE_H
 
-#include <AmbComponent.h>
+#include <ambisonix/AmbComponent.h>
 
 //=================================================================================================
 

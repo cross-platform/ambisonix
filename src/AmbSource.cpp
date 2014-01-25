@@ -1,4 +1,4 @@
-#include <AmbSource.h>
+#include <ambisonix/AmbSource.h>
 
 static const unsigned short speedOfSound = 344;
 static const unsigned short maxDistance = 150;

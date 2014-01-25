@@ -1,4 +1,4 @@
-#include <AmbComponent.h>
+#include <ambisonix/AmbComponent.h>
 #include <string.h>
 
 static const float fSqrt3_2 = sqrtf( 3.f ) / 2.f;

@@ -2,9 +2,9 @@
 #define AMBISONIX_H
 
 #include <vector>
-#include <AmbSource.h>
-#include <AmbSpeaker.h>
-#include <AmbFormat.h>
+#include <ambisonix/AmbSource.h>
+#include <ambisonix/AmbSpeaker.h>
+#include <ambisonix/AmbFormat.h>
 
 //=================================================================================================
 
