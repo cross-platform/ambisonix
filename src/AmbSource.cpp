@@ -138,7 +138,7 @@ void AmbSource::Process( std::vector< float >& src, AmbFormat& dest )
 
           StretchBuffer( src, bufferSize, stretched, newLength );
 
-          for( unsigned long i = 0; i < newLength; i++ )
+          for( long i = 0; i < newLength; i++ )
           {
             _delayBuffer[_inIndex] = stretched[i];
             _inIndex = ( _inIndex + 1 ) % _delayBufferSize;
